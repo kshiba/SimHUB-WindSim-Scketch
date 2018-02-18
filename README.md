@@ -1,5 +1,6 @@
 # SimHUB DisplayClientV2 for Easy Wind Sim
 Sample VIDEO : https://twitter.com/k_shiba_rs/status/965105814934454273  
+BOM : https://docs.google.com/spreadsheets/d/1diYXXb7713uR0T2zhjQ0rlz9WAJ1-SGOPO6jhTmzCHY/edit?usp=sharing (Japanese)
 
 # Hardware
 - Arduino UNO (or Compatible)  
