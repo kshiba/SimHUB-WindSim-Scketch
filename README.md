@@ -16,5 +16,5 @@ Sample VIDEO : https://twitter.com/k_shiba_rs/status/965105814934454273
 # How to Setup the Sim
 1. Write This Scketch
 2. Run SimHUB Software and Set up Arduino Harware below
-![Setup1](./WindSimSetUp1.png)
+![Setup1](/WindSimSetUp1.png)
 ![Setup2](/WindSimSetUp2.png)
